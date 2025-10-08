@@ -27,7 +27,7 @@
   </a>
 
   <a href="https://github.com/coutz" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Coutz-181717?style=for-the-badge&logo=github&logoColor=00FF99" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-CouTz07-181717?style=for-the-badge&logo=github&logoColor=00FF99" alt="GitHub" />
   </a>
 
   <a href="https://discord.com/users/cout07" target="_blank">
