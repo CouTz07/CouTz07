@@ -45,10 +45,6 @@
 ### 📂 Project Index
 | 🧠 Projeto | 🗂️ Repositório | 📝 Descrição |
 |:-----------|:---------------|:-------------|
-| 🔹 **Java Utilities** | [github.com/coutz/java-utils](https://github.com/coutz/java-utils) | Coleção de funções úteis e helpers em Java |
-| 🔹 **Python Scripts** | [github.com/coutz/python-scripts](https://github.com/coutz/python-scripts) | Scripts rápidos e automações em Python |
-| 🔹 **API Manager** | [github.com/coutz/api-manager](https://github.com/coutz/api-manager) | Projeto de gerenciamento de APIs REST |
-| 🔹 **Saveiro Sound System** | [github.com/coutz/saveiro-sound](https://github.com/coutz/saveiro-sound) | Projeto automotivo de controle de som |
 | 🔹 **MESB Closet Site** | [github.com/coutz/mesb-closet](https://github.com/coutz/mesb-closet) | Loja da MESB CLOSET desenvolvida em Python + JS |
 
 > 💡 *Atualize os links acima conforme seus repositórios reais.*
