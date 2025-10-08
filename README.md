@@ -20,3 +20,27 @@
 Languages:   Java | Python
 Tools:       Git | VS Code | IntelliJ IDEA
 Environment: Linux | Windows
+<p align="center">
+
+  <!-- 🧠 Badges de Contato -->
+  <a href="mailto:felip8lima@gmail.com">
+    <img src="https://img.shields.io/badge/Email-felip8lima%40gmail.com-00FF99?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+
+  <a href="https://instagram.com/coutdag7" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@coutdag7-833AB4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+
+  <a href="https://github.com/coutz" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Coutz-181717?style=for-the-badge&logo=github&logoColor=00FF99" alt="GitHub" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/coutz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Coutz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <a href="https://discord.com/users/cout07" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-cout07-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+
+</p>
