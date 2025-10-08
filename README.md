@@ -1,30 +1,23 @@
-<!-- README by Coutz 🧠 -->
+<!-- 🌌 README by Coutz -->
 <h1 align="center">👋 Yo, I'm <span style="color:#00FF99">Coutz</span></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=500&color=00FF99&center=true&vCenter=true&width=450&lines=Java+%26+Python+Developer;Always+learning+something+new;Code.+Create.+Repeat.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=600&color=00FF99&center=true&vCenter=true&width=500&lines=Java+%26+Python+Developer;Dark+Code+Vibes;Creating+%7C+Learning+%7C+Improving" alt="Typing SVG">
 </p>
 
 ---
 
 ### 🧩 About Me
-💻 I’m a passionate developer working mainly with **Java** and **Python**  
-⚡ I love turning ideas into real and functional code  
-🎯 Focused on continuous growth and creating cool stuff  
-📲 Follow my journey on [Instagram @coutdag7](https://instagram.com/coutdag7)
+💻 Developer focused on **Java** and **Python**  
+⚙️ Obsessed with clean and functional code  
+🚀 Always learning and improving  
+📱 Follow me on [Instagram @coutdag7](https://instagram.com/coutdag7)
 
 ---
 
-### 🧠 Tech Stack
-```text
-Languages:   Java | Python
-Tools:       Git | VS Code | IntelliJ IDEA
-Environment: Linux | Windows
+### 🌐 Connect with Me
 <p align="center">
 
- <p align="center">
-
-  <!-- 🧠 Badges de Contato -->
   <a href="mailto:felip8lima@gmail.com">
     <img src="https://img.shields.io/badge/Email-felip8lima%40gmail.com-00FF99?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -47,3 +40,44 @@ Environment: Linux | Windows
 
 </p>
 
+---
+
+### 📂 Project Index
+| 🧠 Projeto | 🗂️ Repositório | 📝 Descrição |
+|:-----------|:---------------|:-------------|
+| 🔹 **Java Utilities** | [github.com/coutz/java-utils](https://github.com/coutz/java-utils) | Coleção de funções úteis e helpers em Java |
+| 🔹 **Python Scripts** | [github.com/coutz/python-scripts](https://github.com/coutz/python-scripts) | Scripts rápidos e automações em Python |
+| 🔹 **API Manager** | [github.com/coutz/api-manager](https://github.com/coutz/api-manager) | Projeto de gerenciamento de APIs REST |
+| 🔹 **Saveiro Sound System** | [github.com/coutz/saveiro-sound](https://github.com/coutz/saveiro-sound) | Projeto automotivo de controle de som |
+| 🔹 **MESB Closet Site** | [github.com/coutz/mesb-closet](https://github.com/coutz/mesb-closet) | Loja da MESB CLOSET desenvolvida em Python + JS |
+
+> 💡 *Atualize os links acima conforme seus repositórios reais.*
+
+---
+
+### ⚙️ GitHub Stats
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=coutz&show_icons=true&theme=radical&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=coutz&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coutz&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+---
+
+### 🧬 Quote of the Day
+> “The best way to predict the future is to code it.”  
+> — *Coutz ⚡*
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=coutz&color=00FF99&style=for-the-badge" alt="Profile views" />
+</p>
+
+---
+
+<h3 align="center">⚡ Crafted with passion by <span style="color:#00FF99">Coutz</span></h3>
